@@ -54,3 +54,5 @@ plt.xlabel('Size (1000 sqft)')
 plt.plot(x_train, predicetedY)  # ploting the line
 plt.legend()
 plt.show()
+
+
